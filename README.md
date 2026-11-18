@@ -7,7 +7,7 @@ A FastAPI backend that validates SQL queries and returns AI-powered analysis via
 - **Python 3.13**
 - **FastAPI** — API framework
 - **Uvicorn** — ASGI server
-- **Google Gemini** (`google-genai`, model `gemini-2.5-flash`) — AI analysis
+- **Google Gemini** (`google-genai`, model `gemini-3.8-flash`) — AI analysis
 - **slowapi** — rate limiting (10 requests/day per IP, file-backed persistent storage)
 - **python-dotenv** — env var loading
 
